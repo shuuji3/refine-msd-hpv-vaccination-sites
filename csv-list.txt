@@ -1,0 +1,8 @@
+https://www.shikyukeigan-yobo.jp/static/csv/01_hokkaido.csv
+https://www.shikyukeigan-yobo.jp/static/csv/02_tohoku.csv
+https://www.shikyukeigan-yobo.jp/static/csv/03_kanto.csv
+https://www.shikyukeigan-yobo.jp/static/csv/04_chubu.csv
+https://www.shikyukeigan-yobo.jp/static/csv/05_kinki.csv
+https://www.shikyukeigan-yobo.jp/static/csv/06_chugoku.csv
+https://www.shikyukeigan-yobo.jp/static/csv/07_shikoku.csv
+https://www.shikyukeigan-yobo.jp/static/csv/08_kyu_oki.csv
